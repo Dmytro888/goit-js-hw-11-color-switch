@@ -1,0 +1,20 @@
+body {
+  height: 100vh;
+  text-align: center;
+}
+button {
+  color: rgb(255, 255, 255);
+  font-size: 48px;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  -webkit-text-stroke: 1px black;
+  width: 361px;
+  height: 60px;
+  background: linear-gradient(rgba(0, 0, 0, 0.836), rgba(255, 255, 255, 0.575));
+  margin: 25px;
+  border-radius: 15px;
+  outline: transparent;
+  display: inline-block;
+  margin-top: 20%;
+}
